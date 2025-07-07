@@ -1,4 +1,4 @@
-## Hello 🌤
+## Hello ⛅
 
 🐋 I am a grad student at the University of Washington working on underwater acoustic signal processing. Most of my work focuses on applications for marine mammal localization and tracking. Feel free to reach out if you have any questions or interesting comments!
 
