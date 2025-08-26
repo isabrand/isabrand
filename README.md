@@ -2,6 +2,7 @@
 
 My name is Isabelle Brandicourt, and I am a grad student at the University of Washington working on underwater acoustic signal processing. Most of my work focuses on determining differences in acoustic processing between typical hydrophone systems and newer fiber optic cable sensing systems. I also work on marine mammal detection, localization, and tracking via acoustic recorders. The majority of my work is currently based in Puget Sound, looking at resident Killer Whale populations. Feel free to reach out if you have any questions or interesting comments!
 
+Visit my *unfinished* website here: https://isabrand.github.io/website/
 <!--
 **isabrand/isabrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
